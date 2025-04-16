@@ -23,7 +23,7 @@ jobs:
         run: pip install glob2
           
       - name: Run count updater
-        run: python scripts/update_counts.py
+        run: python scripts/count_articles.py
           
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4
