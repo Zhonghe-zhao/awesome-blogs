@@ -13,7 +13,9 @@
 
 | 类别                | 描述                          | 文章数量 |
 |---------------------|-------------------------------|---------|
-
+| [编程语言](/blogs/programming) | 深入理解各种语言特性          | 0       |  <!-- auto-update-count -->
+| [系统架构](/blogs/architecture) | 分布式/高可用设计模式         | 0       |  <!-- auto-update-count -->
+| [开发者工具](/blogs/tools)     | 提升效率的神器                | 0       |  <!-- auto-update-count -->
 | [认知思维](/blogs/thinking)    | 技术人的思维模型              | 0       |  <!-- auto-update-count -->
 
 ---

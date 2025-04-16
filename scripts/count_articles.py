@@ -9,23 +9,39 @@ def count_md_files(directory):
               if not f.endswith('README.md')])
 
 def update_readme():
-    # 获取各分类文章数量
-    counts = {
-        'programming': count_md_files('blogs/programming'),
-        'architecture': count_md_files('blogs/architecture'),
-        'tools': count_md_files('blogs/tools'),
-        'thinking': count_md_files('blogs/thinking')
+    # 分类配置
+    categories = {
+        'programming': {
+            'name': '编程语言',
+            'desc': '深入理解各种语言特性'
+        },
+        'architecture': {
+            'name': '系统架构',
+            'desc': '分布式/高可用设计模式'
+        },
+        'tools': {
+            'name': '开发者工具',
+            'desc': '提升效率的神器'
+        },
+        'thinking': {
+            'name': '认知思维',
+            'desc': '技术人的思维模型'
+        }
     }
+    
+    # 获取各分类文章数量
+    counts = {category: count_md_files(f'blogs/{category}') 
+             for category in categories}
     
     # 读取README内容
     with open('README.md', 'r', encoding='utf-8') as f:
         content = f.read()
     
     # 更新文章数量
-    for category, count in counts.items():
+    for category, data in categories.items():
         content = re.sub(
             rf'\| \[.*\]\(/blogs/{category}\).*\| \d+ \|',
-            f'| [{"编程语言" if category=="programming" else "系统架构" if category=="architecture" else "开发者工具" if category=="tools" else "认知思维"}](/blogs/{category}) | {"深入理解各种语言特性" if category=="programming" else "分布式/高可用设计模式" if category=="architecture" else "提升效率的神器" if category=="tools" else "技术人的思维模型"} | {count} |',
+            f'| [{data["name"]}](/blogs/{category}) | {data["desc"]} | {counts[category]} |',
             content
         )
     
