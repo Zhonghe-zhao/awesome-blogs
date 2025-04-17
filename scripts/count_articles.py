@@ -17,10 +17,9 @@ def count_md_files(directory):
 def update_readme():
     # 分类配置
     categories = {
-        'programming': ('编程语言', '深入理解各种语言特性'),
-        'architecture': ('系统架构', '分布式/高可用设计模式'),
+        'books': ('书籍', '读书笔记/好书推荐'),
         'tools': ('开发者工具', '提升效率的神器'),
-        'thinking': ('认知思维', '技术人的思维模型')
+        'thinking': ('习惯思考', '鱼总是最后一个看见水的')
     }
     
     # 获取各分类文章数量
