@@ -13,13 +13,18 @@
 
 | 类别                | 描述                          | 文章数量 |
 |---------------------|-------------------------------|---------|
-| [编程语言](/blogs/programming) | 深入理解各种语言特性          | 0       |
-| [系统架构](/blogs/architecture) | 分布式/高可用设计模式         | 0       |
+| [书籍推荐](/blogs/books) | 推荐一些值得阅读的书籍          | 0       |
 | [开发者工具](/blogs/tools)     | 提升效率的神器                | 0       |
-| [认知思维](/blogs/thinking)    | 技术人的思维模型              | 0       |
+| [习惯思考](/blogs/thinking)    | 鱼总是最后一个看见水的              | 0       |
 
 ---
 
-## 🏻 YYYY.MM.DD日推荐  <!-- auto-update-date -->
+## 🏻 2025.4.17日推荐  <!-- auto-update-date -->
+
+书籍推荐：《深入理解Go语言》(刘丹冰)
+
+## 🏻 2025.4.16推荐  <!-- auto-update-date -->
+
+[AI导致批判性思维逐渐崩溃](https://www.dutchosintguy.com/post/the-slow-collapse-of-critical-thinking-in-osint-due-to-ai)
 
 ---
