@@ -1,11 +1,11 @@
 ---
 title: AI导致批判性思维逐渐崩溃
 date: 2025-4-16
-tags: [认知思维, 技术思考]
+tags: [独立思考]
 ---
 
 
-今天查看了 阮一峰老师的仓库 [ruanyifeng](https://github.com/ruanyf/weekly) 查看了老师的2025年4月份的文章 issue-344.md中的一个文摘
+今天查看了阮一峰老师的仓库 [ruanyifeng](https://github.com/ruanyf/weekly) 查看了老师的2025年4月份的文章 issue-344.md中的一个文摘
 
 
 - 原文引用
