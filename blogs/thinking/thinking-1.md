@@ -16,3 +16,5 @@ tags: [独立思考]
 
 
 [AI导致批判性思维逐渐崩溃](https://www.dutchosintguy.com/post/the-slow-collapse-of-critical-thinking-in-osint-due-to-ai)
+
+[阅读 Obits](https://thereader.mitpress.mit.edu/the-creativity-hack-no-one-told-you-about-read-the-obits/)
