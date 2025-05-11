@@ -9,27 +9,18 @@
 
 ---
 
-## 🌟 精选分类
-
-| 类别                | 描述                          | 文章数量 |
-|---------------------|-------------------------------|---------|
-| [书籍推荐](/blogs/books)    | 推荐一些值得阅读的书籍          | 0       |
-| [开发者工具](/blogs/tools)     | 提升效率的神器                | 1       |
-| [习惯思考](/blogs/thinking)    | 鱼总是最后一个看见水的              | 1       |
-
----
 
 ## 🏻 2025.5.11日推荐  <!-- auto-update-date -->
 
-[阅读 Obits](https://thereader.mitpress.mit.edu/the-creativity-hack-no-one-told-you-about-read-the-obits/)
+[讣告-袁隆平](https://cn.nytimes.com/obits/20210524/yuan-longping-dead/)
+
+“这不是什么秘密，我的经历可以用四个词来概括：知识、汗水、灵感和机会，”袁隆平去年在一段鼓励中国年轻人投身科学的视频中说。他还在英语引用了科学家路易斯·巴斯德(Louis Pasteur)的话：“机会青睐有准备的头脑。” 
+
+---袁隆平
 
 ## 🏻 2025.4.22日推荐  <!-- auto-update-date -->
 
 [在线制图软件](https://www.tldraw.com/)
-
-## 🏻 2025.4.17日推荐  <!-- auto-update-date -->
-
-书籍推荐：《深入理解Go语言》(刘丹冰)
 
 ## 🏻 2025.4.16推荐  <!-- auto-update-date -->
 
