@@ -19,6 +19,10 @@
 
 ---
 
+## 🏻 2025.5.11日推荐  <!-- auto-update-date -->
+
+[阅读 Obits](https://thereader.mitpress.mit.edu/the-creativity-hack-no-one-told-you-about-read-the-obits/)
+
 ## 🏻 2025.4.22日推荐  <!-- auto-update-date -->
 
 [在线制图软件](https://www.tldraw.com/)
